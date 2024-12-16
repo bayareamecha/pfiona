@@ -1,11 +1,16 @@
 Autonomous Nutrient Analyzer
+
 Student Team Members:
+
 Andrew Silva (Team Lead)
+
 Cameron Hayes
+
 Timothy Ly
+
 Tracy Hunter
 
-Faculty Advisor: Edward Cydzik, Dr. Crystal Han, Dr. Farzan Kazemifar, Dr. Maxime Grand
+Faculty Advisors: Edward Cydzik, Dr. Crystal Han, Dr. Farzan Kazemifar, Dr. Maxime Grand
 Project Scope and Objectives:
 Design and construct an autonomous Nutrient Analyzer for measuring chemical composition of
 water samples.
